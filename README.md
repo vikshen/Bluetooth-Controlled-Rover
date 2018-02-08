@@ -1,0 +1,2 @@
+# Bluetooth-Controlled-Rover
+Mining accidents are caused due to the release of poisonous gases, viz., Carbon Monoxide and Methane. Implemented an IoT Based Smart Rover equipped with sensors for the detection of Carbon Monoxide and Methane gases in mines to prevent mining accidents. The movement of the rover is manually controlled by the Bluetooth Module of an Android Mobile device from a remotely located monitoring unit.
